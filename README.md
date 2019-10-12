@@ -3,7 +3,7 @@ CFG for Scriptless category.
 
 Special thanks to _Smiley.
 
-DOWNLOAD LINK - https://drive.google.com/open?id=1ugPULxPaeR8_dTZdJwDAsBFbuTt9jw_x
+DOWNLOAD LINK - https://drive.google.com/open?id=1UkmxogqzodnYomUbNmr7KWEaK1z73gUl
 
 My CFG has:
 1) Bind for weapon (hornetgun)
@@ -23,3 +23,5 @@ Unused functions.
 
 1) Binds for zoom
 2) Fun (Alpha 0.52 reference).
+
+Fun - https://www.youtube.com/watch?v=jEdmALzLQ3I
