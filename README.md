@@ -3,7 +3,7 @@ CFG for Scriptless category.
 
 Special thanks to _Smiley.
 
-[[DOWNLOAD|https://drive.google.com/open?id=1ugPULxPaeR8_dTZdJwDAsBFbuTt9jw_x]]
+DOWNLOAD LINK - https://drive.google.com/open?id=1ugPULxPaeR8_dTZdJwDAsBFbuTt9jw_x
 
 My CFG has:
 1) Bind for weapon (hornetgun)
