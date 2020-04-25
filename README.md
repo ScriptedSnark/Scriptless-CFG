@@ -14,12 +14,10 @@ My CFG has:
 8) -duck bind for Jumpbug.
 9) FPS binds ( 100; 23; 20; 8; 4; )
 10) Bind for "Start run with crosshair".
+
+# Updates
 + Settings.
 + UPDATED - force_centerview bind
-# Unused
-Unused functions.
++ UPDATED V3 - FPS for jumpbugs, zoom, weapon binds, Hazard Course speedrun bind.
 
-1) Binds for zoom
-2) Fun (Alpha 0.52 reference).
-
-Fun - https://www.youtube.com/watch?v=jEdmALzLQ3I
+V3 by _Smiley.
